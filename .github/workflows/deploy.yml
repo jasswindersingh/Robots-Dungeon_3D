@@ -19,4 +19,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./WebGLBuild  # ✨ Updated to match your exact folder!
+          publish_dir: ./deploy_assets/first_Build # ✨ Updated to match your exact folder!
