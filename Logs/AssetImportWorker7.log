@@ -1,0 +1,1263 @@
+Unity Editor version:    2022.3.62f3 (96770f904ca7)
+Branch:                  2022.3/respin/2022.3.62f2-4af31df585-v2
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.7.6 (Build 21H1320)
+Darwin version:          21.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+/Users/apple/Desktop/Robots-Dungeon_3DGame-main
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+49934
+Successfully changed project path to: /Users/apple/Desktop/Robots-Dungeon_3DGame-main
+/Users/apple/Desktop/Robots-Dungeon_3DGame-main
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4707665408]  Target information:
+
+Player connection [4707665408]  * "[IP] 10.145.122.22 [Port] 0 [Flags] 2 [Guid] 2631060688 [EditorId] 2631060688 [Version] 1048832 [Id] OSXEditor(0,MacBook-Pro.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [4707665408] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [4707665408] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+Refreshing native plugins compatible for Editor in 26.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.62f3 (96770f904ca7)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/apple/Desktop/Robots-Dungeon_3DGame-main/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Color LCD preferred device: Intel Iris Pro Graphics (low power)
+Metal devices available: 2
+0: AMD Radeon R9 M370X (high power)
+1: Intel Iris Pro Graphics (low power)
+Using device AMD Radeon R9 M370X (high power)
+Initializing Metal device caps: AMD Radeon R9 M370X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56820
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.62f3/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.62f3/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.62f3/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.018950 seconds.
+- Loaded All Assemblies, in  3.301 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 554 ms
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  5.444 seconds
+Domain Reload Profiling: 8746ms
+	BeginReloadAssembly (516ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (4ms)
+	RebuildCommonClasses (439ms)
+	RebuildNativeTypeToScriptingClass (93ms)
+	initialDomainReloadingComplete (470ms)
+	LoadAllAssembliesAndSetupDomain (1781ms)
+		LoadAssemblies (519ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1765ms)
+			TypeCache.Refresh (1750ms)
+				TypeCache.ScanAssembly (1399ms)
+			ScanForSourceGeneratedMonoScriptInfo (3ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (5446ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (4337ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2563ms)
+			SetLoadedEditorAssemblies (29ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (13ms)
+			ProcessInitializeOnLoadAttributes (1358ms)
+			ProcessInitializeOnLoadMethodAttributes (373ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  4.686 seconds
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.929 seconds
+Domain Reload Profiling: 9620ms
+	BeginReloadAssembly (728ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (25ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (194ms)
+	RebuildCommonClasses (262ms)
+	RebuildNativeTypeToScriptingClass (97ms)
+	initialDomainReloadingComplete (258ms)
+	LoadAllAssembliesAndSetupDomain (3345ms)
+		LoadAssemblies (1554ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (2126ms)
+			TypeCache.Refresh (1819ms)
+				TypeCache.ScanAssembly (1694ms)
+			ScanForSourceGeneratedMonoScriptInfo (180ms)
+			ResolveRequiredComponents (106ms)
+	FinalizeReload (4930ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3301ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (225ms)
+			SetLoadedEditorAssemblies (56ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (494ms)
+			ProcessInitializeOnLoadAttributes (2204ms)
+			ProcessInitializeOnLoadMethodAttributes (315ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.20 seconds
+Refreshing native plugins compatible for Editor in 16.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5891 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (176.5 KB). Loaded Objects now: 6355.
+Memory consumption went from 380.6 MB to 380.4 MB.
+Total: 14.323727 ms (FindLiveObjects: 1.040663 ms CreateObjectMapping: 0.749949 ms MarkObjects: 11.896460 ms  DeleteObjects: 0.633989 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9799.721750 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-38.wav
+  artifactKey: Guid(84e427d6b66ab4066b6a4dcd0ce819ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/CasualGameSounds/DM-CGS-38.wav using Guid(84e427d6b66ab4066b6a4dcd0ce819ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '585c1255331317cda21083de970b520d') in 1.500903 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Aliaksei Yukhnevich - Deliverance (Hybrid Orchestral Epic Copyright Free Music).mp3
+  artifactKey: Guid(48dd4751ffee2f340bd5c547969f6f37) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Aliaksei Yukhnevich - Deliverance (Hybrid Orchestral Epic Copyright Free Music).mp3 using Guid(48dd4751ffee2f340bd5c547969f6f37) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2df65d887d5c86e663641d3b8cb63e9c') in 2.252264 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Footsteps - Essentials/Audio/footstep_concrete_000.ogg
+  artifactKey: Guid(a1230757ee9c92048aab014f249f78be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/footstep_concrete_000.ogg using Guid(a1230757ee9c92048aab014f249f78be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '64229f48519c534d6e868113904ebbfd') in 0.211094 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactMetal_medium_003.ogg
+  artifactKey: Guid(8e81418e8623faa49b64e9a25d179f4a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactMetal_medium_003.ogg using Guid(8e81418e8623faa49b64e9a25d179f4a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c9e6ada87f78012d97faab43dd0d909f') in 0.247650 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001253 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactTin_medium_004.ogg
+  artifactKey: Guid(29c9a3d4fe2cd654d9e406a2122e9c28) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactTin_medium_004.ogg using Guid(29c9a3d4fe2cd654d9e406a2122e9c28) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd7efa18575fcaa2fcea62fff70121699') in 0.283457 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000646 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactGeneric_light_001.ogg
+  artifactKey: Guid(9dccf0f104224fb40aa321e2562c95de) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactGeneric_light_001.ogg using Guid(9dccf0f104224fb40aa321e2562c95de) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e986405ec1187e9a9b4f8a063c397aea') in 0.255088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactPlate_medium_002.ogg
+  artifactKey: Guid(9339fca1612de6743b1f8c65f42d2c05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactPlate_medium_002.ogg using Guid(9339fca1612de6743b1f8c65f42d2c05) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2e46dffd320387ce5676073fdf65ef45') in 0.252942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactWood_light_004.ogg
+  artifactKey: Guid(86d68c9ce081cf44f890a0dd3bac7534) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactWood_light_004.ogg using Guid(86d68c9ce081cf44f890a0dd3bac7534) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e2e567d56e29b9ab02bb9c26ef6c128b') in 0.230617 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactPunch_heavy_000.ogg
+  artifactKey: Guid(35849c902224cfc44ac817dcae59d2f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactPunch_heavy_000.ogg using Guid(35849c902224cfc44ac817dcae59d2f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd060fc66875a69aa84c5a58d308f6322') in 0.210945 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.018363 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-05.wav
+  artifactKey: Guid(b99da9a57308d4ba1bee1cf1d9038376) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/CasualGameSounds/DM-CGS-05.wav using Guid(b99da9a57308d4ba1bee1cf1d9038376) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0d7d3a79480ffee2235073b36dc20d2a') in 0.200982 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/SwordSoundPack/SWORD_07.wav
+  artifactKey: Guid(d8bf57a57cb4a7e4a97d06ab4b136fca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/SwordSoundPack/SWORD_07.wav using Guid(d8bf57a57cb4a7e4a97d06ab4b136fca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ee3d8fed478976fa7abebba5f312b495') in 0.610021 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.015435 seconds.
+  path: Assets/Game/GameLevel02/NavMesh.asset
+  artifactKey: Guid(8dc0da0c26b1a554b97ed598f114f365) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Game/GameLevel02/NavMesh.asset using Guid(8dc0da0c26b1a554b97ed598f114f365) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '11277cddd273cafba416dc189e0ff6ac') in 0.173249 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000774 seconds.
+  path: Assets/ProjectLittleAdventurer/PP/PP Profile Overview.asset
+  artifactKey: Guid(b63c672bc49e36d468d7c8237cef7dee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ProjectLittleAdventurer/PP/PP Profile Overview.asset using Guid(b63c672bc49e36d468d7c8237cef7dee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '255457ee3416e8fb0959e39897680b68') in 0.402182 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.010478 seconds.
+  path: Assets/Footsteps - Essentials/Audio/footstep_grass_002.ogg
+  artifactKey: Guid(10c1bcb9ca3634841b55a63d6e57d3da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/footstep_grass_002.ogg using Guid(10c1bcb9ca3634841b55a63d6e57d3da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd3dcd0124028bd5469165790d658dd60') in 0.482680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001256 seconds.
+  path: Assets/ProjectLittleAdventurer/Settings/ForwardRenderer.asset
+  artifactKey: Guid(4a8e21d5c33334b11b34a596161b9360) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ProjectLittleAdventurer/Settings/ForwardRenderer.asset using Guid(4a8e21d5c33334b11b34a596161b9360) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cc0a86c937bfedcee8b2994a711bccf0') in 0.418875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000625 seconds.
+  path: Assets/SwordSoundPack/SWORD_27.wav
+  artifactKey: Guid(edb6eaaf36222f9429a9b2214ec69ad0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/SwordSoundPack/SWORD_27.wav using Guid(edb6eaaf36222f9429a9b2214ec69ad0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6e1c46cd57cd1cfb5f29146de6f7a096') in 0.302802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/ProjectLittleAdventurer/UI/UI.png
+  artifactKey: Guid(fb8edaafef16f2f41af9da7db6ffdb7f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ProjectLittleAdventurer/UI/UI.png using Guid(fb8edaafef16f2f41af9da7db6ffdb7f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '08081be4c5cebc131d4a808a7f6eca4a') in 0.592265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.013831 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f5a5696e9d6c657ff635568ecc081f4b') in 0.021779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  artifactKey: Guid(48bb5f55d8670e349b6e614913f9d910) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader using Guid(48bb5f55d8670e349b6e614913f9d910) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f2a8e798c4f59b7ad997a06f9873242d') in 0.052058 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f3a666cc25c6f901ce4b60646896185d') in 0.142777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/ProjectLittleAdventurer/Tool/G_CullManager.cs
+  artifactKey: Guid(2bb3d9b08d78f2a4a963497a0bbc671e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ProjectLittleAdventurer/Tool/G_CullManager.cs using Guid(2bb3d9b08d78f2a4a963497a0bbc671e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fdc6c0de0dfcc8ac82f9de64a3555fcf') in 0.031547 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactMining_004.ogg
+  artifactKey: Guid(11833f9b49d31454ebabc04c2d6dbc0a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactMining_004.ogg using Guid(11833f9b49d31454ebabc04c2d6dbc0a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6d4b76fc515157dbe5e7b9b30fdc72d2') in 0.237781 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactSoft_medium_003.ogg
+  artifactKey: Guid(c4666d7b8373e4042b0b581b84616edd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactSoft_medium_003.ogg using Guid(c4666d7b8373e4042b0b581b84616edd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ac645b816ab44bc9130c8cb10349cc1c') in 0.233122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+  artifactKey: Guid(d930090c0cd643c7b55f19a38538c162) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc using Guid(d930090c0cd643c7b55f19a38538c162) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '012d60637963904f77b0f380b9601f2f') in 0.018847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.003102 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+  artifactKey: Guid(dd89cf5b9246416f84610a006f916af7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader using Guid(dd89cf5b9246416f84610a006f916af7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bfde0d6daa238146cfc49e49d9f7adff') in 0.020810 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001074 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+  artifactKey: Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader using Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cb8ceb8f2a59f7ef3a4a52c037057fdd') in 0.027431 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro.cginc
+  artifactKey: Guid(407bc68d299748449bbf7f48ee690f8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMPro.cginc using Guid(407bc68d299748449bbf7f48ee690f8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ef06a90a9a4c44c53e44012e18eab527') in 0.029255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000880 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactWood_light_003.ogg
+  artifactKey: Guid(20f195b5e08a00c4ca08e4d758fecefc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactWood_light_003.ogg using Guid(20f195b5e08a00c4ca08e4d758fecefc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '51d7cc8f5a00387193d945fbf1082da8') in 0.182724 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactMetal_heavy_003.ogg
+  artifactKey: Guid(588d11fdf5b64c044851e94d6a9fe5d4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactMetal_heavy_003.ogg using Guid(588d11fdf5b64c044851e94d6a9fe5d4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '75015f3f84fb58d02917542f96147e33') in 0.216407 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9110143152212d037b128aedde5aa215') in 0.064504 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001665 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Run/Footsteps_DirtyGround_Run_03.wav
+  artifactKey: Guid(7c518e8469a403b4c981664ecb28a79a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Run/Footsteps_DirtyGround_Run_03.wav using Guid(7c518e8469a403b4c981664ecb28a79a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4b35535623b189d25abadaaf9516608b') in 0.171433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Run/Footsteps_DirtyGround_Run_04.wav
+  artifactKey: Guid(1f2844efbf7abf647ba3d75d510f823a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Run/Footsteps_DirtyGround_Run_04.wav using Guid(1f2844efbf7abf647ba3d75d510f823a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9981db0521222171cedb3462eeb635bc') in 0.125227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000870 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.json
+  artifactKey: Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.json using Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7fe5e149991e90bab3a5d532bbf88113') in 0.024062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.010287 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Land/Footsteps_DirtyGround_Jump_Land_03.wav
+  artifactKey: Guid(1a88f429c4a7b734f9c4254f0c654cea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Land/Footsteps_DirtyGround_Jump_Land_03.wav using Guid(1a88f429c4a7b734f9c4254f0c654cea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ac391e8f99a6dd25b9efc9b2316688a2') in 0.107875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Run/Footsteps_DirtyGround_Run_10.wav
+  artifactKey: Guid(f26cf9ded47cf0140957490a16f85acc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Run/Footsteps_DirtyGround_Run_10.wav using Guid(f26cf9ded47cf0140957490a16f85acc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0b6d5758c969b10f1b2b4efd49789503') in 0.144449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_03.wav
+  artifactKey: Guid(ac6649006dbee9e4685752e124111da7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_03.wav using Guid(ac6649006dbee9e4685752e124111da7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0c69a69ce4189c9eef74031d0b1e3f4f') in 0.109814 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_05.wav
+  artifactKey: Guid(feb62160ad1f8334ab037017b843d162) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_05.wav using Guid(feb62160ad1f8334ab037017b843d162) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9ba9427c9b3183db220c67f3b9ce1296') in 0.126679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_01.wav
+  artifactKey: Guid(9ea11a2d13d536e4e8441a0f5895995c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_01.wav using Guid(9ea11a2d13d536e4e8441a0f5895995c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c7f315e52fa7e67577e1527319207e2f') in 0.157340 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Scripts/Animator behaviours/Player_Run.cs
+  artifactKey: Guid(0cfa00c98c52ec345a1f9ac12801f34b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/Animator behaviours/Player_Run.cs using Guid(0cfa00c98c52ec345a1f9ac12801f34b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e39d18ab6b728b13babe62716c04c72f') in 0.013988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactPlate_light_003.ogg
+  artifactKey: Guid(3f31651c8f9f9084a9d48701b6b787dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactPlate_light_003.ogg using Guid(3f31651c8f9f9084a9d48701b6b787dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6b3cee2c920518cac32063ed12783398') in 0.276059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.003156 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Foley_Grass/Footsteps_Grass_Tall_Movement_05.wav
+  artifactKey: Guid(fcbb5c4d4b88dab4196aa78093d897b4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Foley_Grass/Footsteps_Grass_Tall_Movement_05.wav using Guid(fcbb5c4d4b88dab4196aa78093d897b4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c465a8c8a672888b8da168d16cae2c66') in 0.148670 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump/Footsteps_Grass_Jump_Land_08.wav
+  artifactKey: Guid(eb491a4de6595a246bbef0f211e2bd73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump/Footsteps_Grass_Jump_Land_08.wav using Guid(eb491a4de6595a246bbef0f211e2bd73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7cff8aabe77fe2435ddebae86460b462') in 0.145492 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001167 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump/Footsteps_Grass_Jump_Land_03.wav
+  artifactKey: Guid(856b6d74addb9ad4ab2b7b47bae3e839) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump/Footsteps_Grass_Jump_Land_03.wav using Guid(856b6d74addb9ad4ab2b7b47bae3e839) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bd820cd485c8bb98edaaa13ddda1a887') in 0.400311 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002943 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump/Footsteps_Grass_Jump_Start_05.wav
+  artifactKey: Guid(2642ca70ae8c186489090a89cce4e395) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump/Footsteps_Grass_Jump_Start_05.wav using Guid(2642ca70ae8c186489090a89cce4e395) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6dee4b44fcf7915ebf0bb2db06003500') in 0.753634 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump/Footsteps_Grass_Jump_Start_08.wav
+  artifactKey: Guid(b04465ceef591864badb1aa5c65ee644) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump/Footsteps_Grass_Jump_Start_08.wav using Guid(b04465ceef591864badb1aa5c65ee644) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e079d76657feb13a92fde35b01fde6ca') in 0.356997 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.005155 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump/Footsteps_Grass_Jump_Start_06.wav
+  artifactKey: Guid(f193a8bae58928946916aab1c2068cf1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Jump/Footsteps_Grass_Jump_Start_06.wav using Guid(f193a8bae58928946916aab1c2068cf1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ed87d1f85898da5cb0645e180d108916') in 0.126038 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.012673 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactWood_heavy_004.ogg
+  artifactKey: Guid(ced046c8d7f33e14f92e422135388c65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactWood_heavy_004.ogg using Guid(ced046c8d7f33e14f92e422135388c65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '746ddb8119216a2d5f9bab92d14099a5') in 0.332458 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001005 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-49.wav
+  artifactKey: Guid(7bef0064f8567430cac22499c6b93d4f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/CasualGameSounds/DM-CGS-49.wav using Guid(7bef0064f8567430cac22499c6b93d4f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '694d12bea84d29972e3713f514a945f1') in 0.415696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run/Footsteps_Grass_Run_07.wav
+  artifactKey: Guid(d3ea0567dbe95714eb0ca07f43a37a96) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run/Footsteps_Grass_Run_07.wav using Guid(d3ea0567dbe95714eb0ca07f43a37a96) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a96b9496ed597eaabfe7f2d0e95d3a2f') in 0.123216 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run/Footsteps_Grass_Run_06.wav
+  artifactKey: Guid(f39f1d43c5b9fbf449e7b39d056e5aad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run/Footsteps_Grass_Run_06.wav using Guid(f39f1d43c5b9fbf449e7b39d056e5aad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '83b686ddd5a5ef90cd0476bceb28af3d') in 0.114710 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run/Footsteps_Grass_Run_12.wav
+  artifactKey: Guid(35bda0c39b1fbe64196a669bfb99757d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run/Footsteps_Grass_Run_12.wav using Guid(35bda0c39b1fbe64196a669bfb99757d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '84175517ffbfd42ac340d711283f2394') in 0.148313 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run/Footsteps_Grass_Run_05.wav
+  artifactKey: Guid(2de8329adc6f9b944a5ab0875fb59924) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run/Footsteps_Grass_Run_05.wav using Guid(2de8329adc6f9b944a5ab0875fb59924) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '079710f747fd42b3b8e7d8ec3103e201') in 0.096648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactMetal_medium_004.ogg
+  artifactKey: Guid(efe9a5344b1f1f547baef7a3e959ba41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactMetal_medium_004.ogg using Guid(efe9a5344b1f1f547baef7a3e959ba41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bcce852e7bf7e25cbb141e7be38a4267') in 0.178785 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_11.wav
+  artifactKey: Guid(d3f3cc8ad058cad408e97b1875afec82) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_11.wav using Guid(d3f3cc8ad058cad408e97b1875afec82) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2f6f26b116a09efb4f7c1e06bee0d062') in 0.101501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_06.wav
+  artifactKey: Guid(6a0b4267ac8ee8448b619bc9a3bca6d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_06.wav using Guid(6a0b4267ac8ee8448b619bc9a3bca6d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c10247132e9bc6ce4e910c2e34795afd') in 0.091127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_14.wav
+  artifactKey: Guid(cee5e6c416359ef4cbb722f0cd3a5a14) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_14.wav using Guid(cee5e6c416359ef4cbb722f0cd3a5a14) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '72f0dd14e3f8dbe4c6dba0a4b3c66e98') in 0.110306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_04.wav
+  artifactKey: Guid(38cb68a2a49e89c46bea091d75b27976) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_04.wav using Guid(38cb68a2a49e89c46bea091d75b27976) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5a36db08a479d5ef1b53ffcf1a07679b') in 0.092647 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactWood_light_001.ogg
+  artifactKey: Guid(1ed809ad40c58dd42be809ed4f14d995) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactWood_light_001.ogg using Guid(1ed809ad40c58dd42be809ed4f14d995) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0edccac199ceee4d47f90b90e8b06495') in 0.173157 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_22.wav
+  artifactKey: Guid(5ad92c54c3f49654db8d62382e5f559b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_22.wav using Guid(5ad92c54c3f49654db8d62382e5f559b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5238757c24ed467295f090fc1a582215') in 0.101228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_30.wav
+  artifactKey: Guid(b4b126977b28e1d499d8f7f7c580d488) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_30.wav using Guid(b4b126977b28e1d499d8f7f7c580d488) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c5a0dddb1f364785e5146e375532b7bd') in 0.083988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_23.wav
+  artifactKey: Guid(c73956075c85d384a891d9da3762e5c9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_23.wav using Guid(c73956075c85d384a891d9da3762e5c9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '00a680a91b0d45716dec5d9a7aba4226') in 0.077055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_17.wav
+  artifactKey: Guid(6f344c93a9337684995c262534fa85f1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_17.wav using Guid(6f344c93a9337684995c262534fa85f1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ca195e804f2c4c22739833d147ed72a7') in 0.090803 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_31.wav
+  artifactKey: Guid(c79fa9a699dd93647a0729d726adb632) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_31.wav using Guid(c79fa9a699dd93647a0729d726adb632) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b39b359e0b8d5ab9ed1c526ddf1a88a8') in 0.082614 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_29.wav
+  artifactKey: Guid(3642dbceb97dc5d419752955421aca54) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_29.wav using Guid(3642dbceb97dc5d419752955421aca54) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9e0f3ea04a2fed2bf5f91406e7283e2d') in 0.128512 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_45.wav
+  artifactKey: Guid(74a0ecc6d5d37bf4f8fe4544dfcd9e8b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_45.wav using Guid(74a0ecc6d5d37bf4f8fe4544dfcd9e8b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9ba8944098b5741822cd0ef386b964c8') in 0.087967 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001176 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_35.wav
+  artifactKey: Guid(c98c6b4375d0b1e4193f9e678966559a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_35.wav using Guid(c98c6b4375d0b1e4193f9e678966559a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2f510560f0c4f29391e1e8bba93f78a1') in 0.094507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000925 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_43.wav
+  artifactKey: Guid(55a810a67df804d4487e8f990523255b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_43.wav using Guid(55a810a67df804d4487e8f990523255b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8578e0ff3258336227629e8d526ab675') in 0.079119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_36.wav
+  artifactKey: Guid(dd26e9057c37e2943993f701a764fc3e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_36.wav using Guid(dd26e9057c37e2943993f701a764fc3e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ee2189f480c2d2b81cf67bc7112c0366') in 0.080267 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000859 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_40.wav
+  artifactKey: Guid(eb73ae3e299f426418476df5f1fb0f53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_40.wav using Guid(eb73ae3e299f426418476df5f1fb0f53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c361bcfe199489a77cfd4ac91f01d652') in 0.099142 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+  artifactKey: Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader using Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '637e2c61210e4d00e7d1887bed44330a') in 0.019161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000675 seconds.
+  path: Assets/Prefabs/Player 1.prefab
+  artifactKey: Guid(d69b2d443e98397419031d29030bf71b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Prefabs/Player 1.prefab using Guid(d69b2d443e98397419031d29030bf71b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '387000aba65cb61700986bb865511a1e') in 0.698952 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 380
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Run/Footsteps_Gravel_Run_01.wav
+  artifactKey: Guid(44737e645aa918043b3d8cab5d1511bc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Run/Footsteps_Gravel_Run_01.wav using Guid(44737e645aa918043b3d8cab5d1511bc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c1b9bea589a305c5492c6fdd25146df8') in 0.098927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Walk/Footsteps_Gravel_Walk_02.wav
+  artifactKey: Guid(2b3fc7e56f2686b48b9445e48c7db2c9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Walk/Footsteps_Gravel_Walk_02.wav using Guid(2b3fc7e56f2686b48b9445e48c7db2c9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6eac0821afbb052b68db641a756987a7') in 0.082447 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Walk/Footsteps_Gravel_Walk_06.wav
+  artifactKey: Guid(2e14b3cc9c6906b42885675f3572d4b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Walk/Footsteps_Gravel_Walk_06.wav using Guid(2e14b3cc9c6906b42885675f3572d4b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0410a2154deb900a6832d83e4f54420b') in 0.073713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Walk/Footsteps_Gravel_Walk_08.wav
+  artifactKey: Guid(6eee7f295d5ff8b4f934dec7f44eaf97) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Walk/Footsteps_Gravel_Walk_08.wav using Guid(6eee7f295d5ff8b4f934dec7f44eaf97) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ea6d861a8741d7f62b26554168329a58') in 0.100581 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Walk/Footsteps_Gravel_Walk_10.wav
+  artifactKey: Guid(afeb90013e6764449ae1616f47705ff7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Walk/Footsteps_Gravel_Walk_10.wav using Guid(afeb90013e6764449ae1616f47705ff7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4660578b08b9f93d2b84a332c710a2b8') in 0.079707 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Jump/Footsteps_Leaves_Jump_Land_02.wav
+  artifactKey: Guid(4d92b7b017bd31947a2785ee1aca7812) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Jump/Footsteps_Leaves_Jump_Land_02.wav using Guid(4d92b7b017bd31947a2785ee1aca7812) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bc9b726b5fc9fe782284b05c2ef5ec39') in 0.097445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000777 seconds.
+  path: Assets/Footsteps - Essentials/Audio/footstep_grass_001.ogg
+  artifactKey: Guid(3f497a17c9978784687f6d5c1ba28d66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/footstep_grass_001.ogg using Guid(3f497a17c9978784687f6d5c1ba28d66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '87199b0e15066d7f3dd30c3915752c04') in 0.134293 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000821 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactPlate_heavy_003.ogg
+  artifactKey: Guid(7e4b1368ac0aa514297fe64ec638e221) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactPlate_heavy_003.ogg using Guid(7e4b1368ac0aa514297fe64ec638e221) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b086e7c7c8fc7ab79c1da8ef7a8ea6f2') in 0.175064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Walk/Footsteps_Leaves_Walk_04.wav
+  artifactKey: Guid(7b0242fe2eb831e4cbf3bada890a9dcd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Walk/Footsteps_Leaves_Walk_04.wav using Guid(7b0242fe2eb831e4cbf3bada890a9dcd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ea1e5925bd3144e5501b47872b16866f') in 0.079143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002815 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Run/Footsteps_Leaves_Run_05.wav
+  artifactKey: Guid(80e0ad20812b5da4da809eb1976d38c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Run/Footsteps_Leaves_Run_05.wav using Guid(80e0ad20812b5da4da809eb1976d38c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e89d4399d84bd8013a36556477c88838') in 0.092184 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002521 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV1_Jump_Start_03.wav
+  artifactKey: Guid(5c39ec0074165fb4eaf789fc68f5379b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV1_Jump_Start_03.wav using Guid(5c39ec0074165fb4eaf789fc68f5379b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '14b61bcd61f88f5d97219e5977647974') in 0.071390 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Walk/Footsteps_Leaves_Walk_03.wav
+  artifactKey: Guid(88836c252240bf148b51f31eaa40423b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Walk/Footsteps_Leaves_Walk_03.wav using Guid(88836c252240bf148b51f31eaa40423b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6f776c64315399e30fb1eeebc0cde32f') in 0.082224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV1_Jump_Land_04.wav
+  artifactKey: Guid(a04e8112fb4cca944baabc0048ff839d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV1_Jump_Land_04.wav using Guid(a04e8112fb4cca944baabc0048ff839d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '86589587b0cdce299d3428043b2cf115') in 0.093446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV1_Jump_Land_02.wav
+  artifactKey: Guid(8a7a8ee0447e4b5469bce225745d9f42) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV1_Jump_Land_02.wav using Guid(8a7a8ee0447e4b5469bce225745d9f42) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ce28f5660b681a1e7e826efeba27f95c') in 0.090125 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Run/Footsteps_MetalV1_Run_02.wav
+  artifactKey: Guid(5e8e6e435e65fe146b588b8a9d2df461) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Run/Footsteps_MetalV1_Run_02.wav using Guid(5e8e6e435e65fe146b588b8a9d2df461) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0daa343b532c5d7805deec89861ffddc') in 0.104754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001852 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Start_03.wav
+  artifactKey: Guid(e6709cc34e1daa54f9d575a452e0f64e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Start_03.wav using Guid(e6709cc34e1daa54f9d575a452e0f64e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5ae3c7931516f476d2fe907a3ae9817f') in 0.071089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Run/Footsteps_MetalV1_Run_03.wav
+  artifactKey: Guid(8900ae4b297a017448ddb78ea0c2d4da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Run/Footsteps_MetalV1_Run_03.wav using Guid(8900ae4b297a017448ddb78ea0c2d4da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0ef6410509a7dcf9773ca9bf283e225c') in 0.120631 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Land_03.wav
+  artifactKey: Guid(d4ce8205a3ae9ab4181dbc190b1a837e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Land_03.wav using Guid(d4ce8205a3ae9ab4181dbc190b1a837e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f02c22716265c5f590997d47da26c4e1') in 0.121187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000810 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Run/Footsteps_Leaves_Run_06.wav
+  artifactKey: Guid(55a5a001ad9ac3b429adbbe18412b1f9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Leaves/Footsteps_Leaves_Run/Footsteps_Leaves_Run_06.wav using Guid(55a5a001ad9ac3b429adbbe18412b1f9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c1520c533de75cacb5261971dd8d0adf') in 0.170807 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactSoft_medium_000.ogg
+  artifactKey: Guid(3d733bb0e4f46314887f3d269fc2cc9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactSoft_medium_000.ogg using Guid(3d733bb0e4f46314887f3d269fc2cc9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'badfda53bfb2f7753ae2de74ec4c8af4') in 0.167215 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/SwordSoundPack/SWORD_05.wav
+  artifactKey: Guid(80502e18f68bb734b9dded7bb8d2e750) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/SwordSoundPack/SWORD_05.wav using Guid(80502e18f68bb734b9dded7bb8d2e750) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '53b5eb3e0940bf2c638cb175fd1330b3') in 0.180925 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002274 seconds.
+  path: Assets/Prefabs/DamageOrb.prefab
+  artifactKey: Guid(6d4cf2b2367247f468a85eaaca9ffc0b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Prefabs/DamageOrb.prefab using Guid(6d4cf2b2367247f468a85eaaca9ffc0b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7586735bf9bd374c71cbe726e8223e29') in 0.122479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 39
+========================================================================
+Received Import Request.
+  Time since last request: 0.002997 seconds.
+  path: Assets/ProjectLittleAdventurer/PP/PP GAME02.asset
+  artifactKey: Guid(75e814f8ccfb9c245af7a7eaa6320bdc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ProjectLittleAdventurer/PP/PP GAME02.asset using Guid(75e814f8ccfb9c245af7a7eaa6320bdc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0673d2f99b9568f2ba7adf31b8506c61') in 0.024834 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/CasualGameSounds/license.pdf
+  artifactKey: Guid(97e586aae91a04999b17478d7aa1a576) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/CasualGameSounds/license.pdf using Guid(97e586aae91a04999b17478d7aa1a576) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ff3bcdcee6e3f0a2d8ccabca5a5518bb') in 0.011513 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000698 seconds.
+  path: Assets/Game/GameLevel01.unity
+  artifactKey: Guid(467c9b7ff7812524aab86c8227d541d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Game/GameLevel01.unity using Guid(467c9b7ff7812524aab86c8227d541d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8e617b04fa9c3563c466403c72954066') in 0.033103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001091 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run/Footsteps_Grass_Run_09.wav
+  artifactKey: Guid(7a5ff4a806216b14ab9dba35a4fb258c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Run/Footsteps_Grass_Run_09.wav using Guid(7a5ff4a806216b14ab9dba35a4fb258c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3825110387ef18c2328c87d606ce3dd9') in 0.148501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_34.wav
+  artifactKey: Guid(a6801ed1ae1ed5648ba823232d0fcdf4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_34.wav using Guid(a6801ed1ae1ed5648ba823232d0fcdf4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '624826deacae8df6a169a39184c21df3') in 0.085968 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactWood_medium_002.ogg
+  artifactKey: Guid(29ea9c7be3961384fa65457dd031fc64) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactWood_medium_002.ogg using Guid(29ea9c7be3961384fa65457dd031fc64) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '61eb660c77e1de129aeed8a4f957460a') in 0.134508 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002892 seconds.
+  path: Assets/ProjectLittleAdventurer/Prefab/GameLevel.prefab
+  artifactKey: Guid(468d9c46b67464e47bdc80e8f9103914) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ProjectLittleAdventurer/Prefab/GameLevel.prefab using Guid(468d9c46b67464e47bdc80e8f9103914) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fc12a7997f7fd2764c1c799724346274') in 0.466296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5903
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Start_01.wav
+  artifactKey: Guid(7f4bb31f06728be4ba0bed5c2641896c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Metal/Footsteps_Metal_Jump/Footsteps_MetalV2_Jump_Start_01.wav using Guid(7f4bb31f06728be4ba0bed5c2641896c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ba43448357235bb21cab5ec3a64235b1') in 0.075487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_13.wav
+  artifactKey: Guid(ba6466c0db2d12649a51ba73749902d3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_13.wav using Guid(ba6466c0db2d12649a51ba73749902d3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '62036d2cbb424453b699b070f12faf68') in 0.132816 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002076 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(071735e31f7c2b94a82f7dab6b167893) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Prefabs/Coin.prefab using Guid(071735e31f7c2b94a82f7dab6b167893) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '371664ea3f6fad0795889f9880801c09') in 0.127750 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000736 seconds.
+  path: Assets/Footsteps - Essentials/Audio/footstep_wood_003.ogg
+  artifactKey: Guid(140de76fcf0301c42974770e37ffe179) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/footstep_wood_003.ogg using Guid(140de76fcf0301c42974770e37ffe179) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '229edeb74a7ac160ad5e512e0d035983') in 0.178623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001637 seconds.
+  path: Assets/Footsteps - Essentials/Audio/footstep_snow_001.ogg
+  artifactKey: Guid(c95c3c37409827e419a157870d5e9665) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/footstep_snow_001.ogg using Guid(c95c3c37409827e419a157870d5e9665) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '622a0b0984d1b776ed1b40459e2319fb') in 0.129433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Jump/Footsteps_Jump_Land_03.wav
+  artifactKey: Guid(70bfbaaebebfb0d4ba87a5e9947d5ad3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Jump/Footsteps_Jump_Land_03.wav using Guid(70bfbaaebebfb0d4ba87a5e9947d5ad3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b275e09ffb8564dbcee0e87d3c07fcc0') in 0.092007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Footsteps - Essentials/Audio/footstep_grass_004.ogg
+  artifactKey: Guid(75d464e3caced7f42bb41423a9b07c7d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/footstep_grass_004.ogg using Guid(75d464e3caced7f42bb41423a9b07c7d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '295861ac0537c0a39b5d0b6171defbef') in 0.125575 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactTin_medium_003.ogg
+  artifactKey: Guid(f17c36c028e513e48ae799e393e9fe93) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactTin_medium_003.ogg using Guid(f17c36c028e513e48ae799e393e9fe93) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '38301cdf5f5d950560f8139339ddaaf1') in 0.137650 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001349 seconds.
+  path: Assets/Footsteps - Essentials/Audio/footstep_carpet_002.ogg
+  artifactKey: Guid(c9c5c73480f1c4d439fd7b7c69eece76) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/footstep_carpet_002.ogg using Guid(c9c5c73480f1c4d439fd7b7c69eece76) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '363229218eb751454b63b608d809ba50') in 0.107226 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/ProjectLittleAdventurer/PP/PP Profile Game.asset
+  artifactKey: Guid(5f21e97a7253a1f4b9d50243cf0126cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/ProjectLittleAdventurer/PP/PP Profile Game.asset using Guid(5f21e97a7253a1f4b9d50243cf0126cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1be91aaa5103739096a39ab220cc2d65') in 0.008536 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_49.wav
+  artifactKey: Guid(97b97fae0b55ce141bff2005c510492e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Grass/Footsteps_Grass_Walk/Footsteps_Walk_Grass_Mono_49.wav using Guid(97b97fae0b55ce141bff2005c510492e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '250860151d99dd387fbfa8c8c9ff3f3a') in 0.059820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Run/Footsteps_Gravel_Run_05.wav
+  artifactKey: Guid(16627ace4424d91498eb01bb4028a449) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_Gravel/Footsteps_Gravel_Run/Footsteps_Gravel_Run_05.wav using Guid(16627ace4424d91498eb01bb4028a449) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c214e53574f80e6e4ca44fa4a7551fd4') in 0.059384 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001069 seconds.
+  path: Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_07.wav
+  artifactKey: Guid(6478d7fb30f301b4fa8f74d5d1dad094) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Footsteps_DirtyGround/Footsteps_DirtyGround_Walk/Footsteps_DirtyGround_Walk_07.wav using Guid(6478d7fb30f301b4fa8f74d5d1dad094) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4cecb23c40a6d1633c48dd700fd7954a') in 0.050689 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+  artifactKey: Guid(85187c2149c549c5b33f0cdb02836b17) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader using Guid(85187c2149c549c5b33f0cdb02836b17) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '57bf1e1f78e8b12b628abc70e04a6cd9') in 0.010858 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactGlass_medium_002.ogg
+  artifactKey: Guid(fe82c5e5936010a48955906d82481bda) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactGlass_medium_002.ogg using Guid(fe82c5e5936010a48955906d82481bda) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '773b8aae2e2287eb5ce08850f4183507') in 0.096194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Footsteps - Essentials/Audio/impactPlate_heavy_004.ogg
+  artifactKey: Guid(b5a5026ad360c434db810cce0f5c3511) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Footsteps - Essentials/Audio/impactPlate_heavy_004.ogg using Guid(b5a5026ad360c434db810cce0f5c3511) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '86ec2098e005a41d8dc7a954105b8d07') in 0.104820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-04.wav
+  artifactKey: Guid(c5e2a73ad4706440f93bf05df0b465fe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/CasualGameSounds/DM-CGS-04.wav using Guid(c5e2a73ad4706440f93bf05df0b465fe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '568d45edf697a1bca5298b95b4edcd66') in 0.091088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 89, details: Operation aborted.
+AssetImportWorker is now disconnected from the server
+Process exiting

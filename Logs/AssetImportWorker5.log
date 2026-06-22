@@ -204,3 +204,53 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 2.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5 unused Assets / (128.7 KB). Loaded Objects now: 6371.
+Memory consumption went from 253.7 MB to 253.6 MB.
+Total: 91.011442 ms (FindLiveObjects: 1.527269 ms CreateObjectMapping: 0.661030 ms MarkObjects: 88.601985 ms  DeleteObjects: 0.220057 ms)
+
+Obtained 34 stack frames.
+#0  0x00000106402ac0 in core::hash_set<core::pair<core::basic_string<char, core::StringStorageDefault<char> > const, keywords::LocalKeyword, true>, core::hash_pair<core::hash<core::basic_string<char, core::StringStorageDefault<char> > >, core::basic_string<char, core::StringStorageDefault<char> >, keywords::LocalKeyword>, core::equal_pair<std::__1::equal_to<core::basic_string<char, core::StringStorageDefault<char> > >, core::basic_string<char, core::StringStorageDefault<char> >, keywords::LocalKeyword> >::node* core::hash_set<core::pair<core::basic_string<char, core::StringStorageDefault<char> > const, keywords::LocalKeyword, true>, core::hash_pair<core::hash<core::basic_string<char, core::StringStorageDefault<char> > >, core::basic_string<char, core::StringStorageDefault<char> >, keywords::LocalKeyword>, core::equal_pair<std::__1::equal_to<core::basic_string<char, core::StringStorageDefault<char> > >, core::basic_string<char, core::StringStorageDefault<char> >, keywords::LocalKeyword> >::lookup<core::basic_string<char, core::StringStorageDefault<char> >, core::equal_pair<std::__1::equal_to<core::basic_string<char, core::StringStorageDefault<char> > >, core::basic_string<char, core::StringStorageDefault<char> >, keywords::LocalKeyword> >(core::basic_string<char, core::StringStorageDefault<char> > const&, core::equal_pair<std::__1::equal_to<core::basic_string<char, core::StringStorageDefault<char> > >, core::basic_string<char, core::StringStorageDefault<char> >, keywords::LocalKeyword> const&) const
+#1  0x000001063ff280 in keywords::KeywordRemap::Init(keywords::LocalSpace const&, keywords::LocalSpace const&)
+#2  0x00000106405478 in ShaderLab::IntShader::ResolveFallback(ShaderLab::SerializedShader const&, Shader*, core::vector<PPtr<Shader>, 0ul>&, bool)
+#3  0x000001063cba07 in ShaderLab::IntShader::CreateFromSerializedShaderMainThread(ShaderLab::IntShader*, ShaderLab::SerializedShader const&, core::vector<PPtr<Shader>, 0ul>&, bool, Shader*)
+#4  0x000001063d0089 in ShaderFromSerializedShaderMainThread(ShaderLab::IntShader*, ShaderLab::SerializedShader const*, core::vector<PPtr<Shader>, 0ul>&, bool, Shader*)
+#5  0x000001080f77b7 in Shader::CreateFromParsedForm()
+#6  0x000001080f7af7 in Shader::AwakeFromLoad(AwakeFromLoadMode)
+#7  0x000001067aadbf in AwakeFromLoadQueue::InvokePersistentManagerAwake(AwakeFromLoadQueue::Item*, unsigned int, AwakeFromLoadMode, bool)
+#8  0x000001067aa7b9 in AwakeFromLoadQueue::PersistentManagerSingleQueueAwakeFromLoad(int, AwakeFromLoadMode)
+#9  0x000001067aa3ba in AwakeFromLoadQueue::PersistentManagerAwakeFromLoad_NoChecks(AwakeFromLoadMode)
+#10 0x0000010677941a in PersistentManager::IntegrateAllThreadedObjects()
+#11 0x0000010677a34c in PersistentManager::LoadAndIntegrateAllPreallocatedObjects(PersistentManager::LockFlags)
+#12 0x0000010677c4d6 in PersistentManager::LoadObjects(int const*, int, bool)
+#13 0x00000107d13ccd in ReloadInstances(core::vector<int, 0ul> const&, core::hash_map<int, ScriptingGCHandle, core::hash<int>, std::__1::equal_to<int> > const&)
+#14 0x00000107d16149 in ReloadAssetIfLoaded(UnityGUID const&)
+#15 0x00000107cd3104 in invocation function for block in AssetImportWorkerClient::HandleMessage(PrepareMessage const&)::$_4::operator()() const
+#16 0x007ff80f9a5317 in _dispatch_client_callout
+#17 0x007ff80f9b28ad in _dispatch_async_and_wait_invoke
+#18 0x007ff80f9a5317 in _dispatch_client_callout
+#19 0x007ff80f9b1c78 in _dispatch_main_queue_drain
+#20 0x007ff80f9b18bb in _dispatch_main_queue_callback_4CF
+#21 0x007ff80fc61e67 in __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__
+#22 0x007ff80fc22eff in __CFRunLoopRun
+#23 0x007ff80fc21d6c in CFRunLoopRunSpecific
+#24 0x007ff8188d45e6 in RunCurrentEventLoopInMode
+#25 0x007ff8188d434a in ReceiveNextEventCommon
+#26 0x007ff8188d40e5 in _BlockUntilNextEventMatchingListInModeWithFilter
+#27 0x007ff812660aa9 in _DPSNextEvent
+#28 0x007ff81265f166 in -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+#29 0x007ff812651818 in -[NSApplication run]
+#30 0x007ff81262579a in NSApplicationMain
+#31 0x00000108859ec5 in EditorMain(int, char const**)
+#32 0x0000010885a229 in main
+#33 0x00000118d2e52e in (Unknown)
