@@ -3,10 +3,10 @@ name: Deploy WebGL to GitHub Pages 🎮
 on:
   push:
     branches:
-      - main  # Triggers the deployment whenever you push to main
+      - main
 
 permissions:
-  contents: write  # Gives the action permission to create the gh-pages branch
+  contents: write
 
 jobs:
   deploy:
@@ -19,4 +19,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./WebGLBuild  # Matches your Unity build folder name
+          publish_dir: ./WebGLBuild/first_Build  # ✨ Updated to match your exact folder!
